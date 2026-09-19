@@ -1,0 +1,5 @@
+com/transcribe/TranscribeApplication.class
+com/transcribe/JobWorker.class
+com/transcribe/JobController.class
+com/transcribe/TranscriptionService.class
+com/transcribe/Database.class
